@@ -1,12 +1,8 @@
 #hei
+x <- 2+2+8
 
+y=55
 
 ##imp feature
 
-
-
-
-#hdhhdh
-
-#errrrr
 ####new feature --hdhiajaaj
